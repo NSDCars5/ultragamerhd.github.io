@@ -1,0 +1,91 @@
+*,*:before,*:after { 
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	transition:all 0.5s;
+	-o-transition:all 0.5s;
+	-moz-transition:all 0.5s;
+	-webkit-transition:all 0.5s;
+}
+html {
+    height: 100%;
+}
+body {
+    height:100%;
+    margin:0;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-image:-webkit-linear-gradient(rgb(6,6,8),rgb(53,53,64));
+	background-image:-o-linear-gradient(rgb(6,6,8),rgb(53,53,64)); 
+	background-image:-moz-linear-gradient(rgb(6,6,8),rgb(53,53,64)); 
+	background-image:linear-gradient(rgb(6,6,8),rgb(53,53,64));
+	background-color:rgb(6,6,8);
+	font-family:'Roboto',sans-serif;
+	color:rgb(220,220,220);
+}
+section.head {
+	background-color:rgb(34,34,34);
+	padding:0.25em 1em;
+	width:100%;
+	height:3em;
+	border-bottom:2px solid rgb(27,27,29);
+}
+.head > div {
+	vertical-align:middle;
+	height:2.5em;
+	line-height:2.5em;
+	background-image:url(another_logo.png);
+	background-position:center left;
+	background-size:2.3em;
+	-webkit-background-size:2.3em;
+	-moz-background-size:2.3em;
+	-o-background-size:2.3em;
+	background-repeat:no-repeat;
+	padding:0 2.5em;
+}
+.menu ul { 
+	margin:0; 
+	padding:0; 
+	background:rgb(6,6,8); 
+	border-bottom:1px solid #33b5e5; /* I am so stupid, it took me more than two hours to think of this. */
+}
+a {
+	color:inherit;
+	text-decoration:none;
+	border-bottom:1px solid;
+}
+a:hover,a:focus {
+	color:#fff;
+}
+.menu a {
+	border-bottom:0;
+}
+.menu a:hover {
+	color:inherit;
+}
+.menu li {
+	display:inline-block;
+	width:25%;
+	text-align:center;
+	padding:0.4em;
+	border-bottom:2px solid rgb(6,6,8);
+	font-size:0.8em;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.menu li:hover {
+	border-bottom:2px solid #33b5e5;
+}
+main {
+	width:80%;
+	margin:auto;
+	padding:1em;
+}
+main ul { list-style-type:circle; }
+main ol { list-style-type:lower-greek; }
+@media (max-width:500px) {
+	main {
+		width:100%;
+		padding:0.5em;
+	}
+}
