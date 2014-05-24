@@ -32,3 +32,18 @@ Zues Kernel 3.1 (CWM): [Click Here](https://mega.co.nz/#!0sk0yZSA!NjUwS_6HICKEza
 
 Zues Kernel 3.1.1 (TWRP): [Click Here](https://mega.co.nz/#!R1VEmJSB!JgOBW_deYPdCYu5s_B7zhdxXHBnfIjNrIwtLANmxW0Q)
 
+**--Posiedon Kernel-- Stock Ice-Scream-Sandwich Kernel For the Xperia E 
+
+This is an overclocked Icesream Sandwich 4.0.4 (11.1.A.0.64) Kernel For the Xperia E Single and Dual Sim.
+
+**What does this Kernel Include?**
+
+1.5Ghz Overclock
+
+CWM Recovery
+
+Download Links:
+
+Posiedon Kernel V1.2: [Click Here](https://mega.co.nz/#!B5kxgQaL!fCYEdVUFQa0tCBZ4LiOLSLTj3gIdaA2fJI-oCFp4foA)
+
+
