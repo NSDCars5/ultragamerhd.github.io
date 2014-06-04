@@ -6,25 +6,25 @@ This is an overclocked Jelly Bean 4.1.1 (11.3.A.2.23) Kernel for the Xperia E Si
 
 **What does this Kernel Include?**
 
-1.5GHz Overclock - For All You Gamers Out There Who Want To Take Gaming on the Xperia E onto a whole new level.
+- 1.5GHz Overclock - For All You Gamers Out There Who Want To Take Gaming on the Xperia E onto a whole new level.
 
-SWAP Support - For All You Ram Lovers Out There :)
+- SWAP Support - For All You Ram Lovers Out There :)
 
-SmartAssV2 Governer - This Governer gives you the Best Balance Between Performance and Battery Life.
+- SmartAssV2 Governer - This Governer gives you the Best Balance Between Performance and Battery Life.
 
-ZRAM - ZRAM is the compression of ram so that more can fit onto the actual RAM. (Feature is not Available in Stock JB)
+- ZRAM - ZRAM is the compression of ram so that more can fit onto the actual RAM. (Feature is not Available in Stock JB)
 
-USB Fast Charging - For All You People who dont have the Time to Charge Your Xperia E.
+- USB Fast Charging - For All You People who dont have the Time to Charge Your Xperia E.
 
-Frandom - Is Usefull for Apps that need Fast Number Generation and Anything Along Those Lines.
+- Frandom - Is Usefull for Apps that need Fast Number Generation and Anything Along Those Lines.
 
 **CWM Recovery and TWRP Recovery**
 
-2 Different Recoverys that are available for all you guys who don't like pressing buttons or like simplicity.
+- 2 Different Recoverys that are available for all you guys who don't like pressing buttons or like simplicity.
 
-TWRP - Is the most Popular, User Friendly and Touch Recovery available on Android Today. Ease of use.
+- TWRP - Is the most Popular, User Friendly and Touch Recovery available on Android Today. Ease of use.
 
-CWM - Is the most used Recovery on Android because of its simplicity and its precautions it takes so you don't do something stupid :P
+- CWM - Is the most used Recovery on Android because of its simplicity and its precautions it takes so you don't do something stupid :P
 
 Enough of me Talking :).... Time For the Download Links:
 
@@ -38,11 +38,11 @@ This is an overclocked Icesream Sandwich 4.0.4 (11.1.A.0.64) Kernel For the Xper
 
 **What does this Kernel Include?**
 
-1.5Ghz Overclock
+- 1.5Ghz Overclock
 
-CWM Recovery
+- CWM Recovery
 
-Download Links:
+- Download Links:
 
 Posiedon Kernel V1.2: [Click Here](https://mega.co.nz/#!B5kxgQaL!fCYEdVUFQa0tCBZ4LiOLSLTj3gIdaA2fJI-oCFp4foA)
 
