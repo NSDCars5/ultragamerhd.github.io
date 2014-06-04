@@ -34,7 +34,7 @@ This is an overclocked Icesream Sandwich 4.0.4 (11.1.A.0.64) Kernel For the Xper
 - 1.5Ghz Overclock
 - CWM Recovery
 
-- Download Links:
+- **Download Links:**
 
 Posiedon Kernel V1.2: [Click Here](https://mega.co.nz/#!B5kxgQaL!fCYEdVUFQa0tCBZ4LiOLSLTj3gIdaA2fJI-oCFp4foA)
 
@@ -51,7 +51,7 @@ This is a overclocked Jelly Bean 4.1.2 (CM10) Kernel For the Xperia E Single and
 - Frandom Support
 - zRAM - (To enable this Go into Settings --> Performance ---> Memory Management --> zRAM --> Set Your % of Compression)
 
-- Download Links:
+- **Download Links:**
 
 Hades Kernel V1: [Click Here](https://mega.co.nz/#!Aol0hJbY!68DWHebdQrVkMCml5wvzMS09rthhujjZyxgedDQAj4A)
 
