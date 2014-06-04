@@ -4,7 +4,7 @@ $(document).ready(function(){
 	$("#home-link").click(function(){ loadPage("home"); });
 	$("#kernels-link").click(function(){ loadPage("kernels"); });
 	$("#roms-link").click(function(){ loadPage("roms"); });
-	$("#guides-link").click(function(){ loadPage("guides"); });
+	$("#other-link").click(function(){ loadPage("other"); });
 	function loadPage(page) {
 		$.get(page+".md",function(resp){
 				$("main").fadeOut(500).html(a.makeHtml(resp)).fadeIn(500);
