@@ -40,3 +40,43 @@ TurboICS Single Sim: [Click Here](http://d-h.st/GiU)
 TurboICS Dual Sim: [Click Here](http://d-h.st/QoK)
 
 Aroma Installer: [Click Here](http://d-h.st/gXL)
+
+**--CyanogenMod 11--**
+
+This rom is based on Android 4.4.2 KitKat, the rom is built using CyanogenMod 11 Source so it some extra features compared to stock Android KitKat and it's still is a work in progress.
+
+**Working:**
+
+- Display
+- Audio
+- WiFi
+- RIL
+- Video Playback (SW/HW)
+- Mobile Data (3G)
+- LED's
+- Magnetometer (Screen Rotate)
+- ART
+- Vibrator
+- Battery/Charging
+- Sound Recording
+
+**Not Working:**
+
+- Camera
+- Bluetooth
+- Video Recording
+- FM Radio
+
+This rom is bound to have bugs and issues that needs resolving. This rom is not in it's stable state as of yet but in its alpha stage and is released as a preview of what is expected and what is going to come when this rom evetually becomes a stable release.
+
+**NOTE: INSTALL AT YOUR OWN RISK I AM NOT RESPONSIBLE FOR ANY KIND OF DAMAGE THAT OCCURS TO YOUR PHONE**
+
+**Download Links:**
+
+Alpha 4: [Click Here](https://mega.co.nz/#!d4l20Zba!xwRZ3twq58M5w8Jx6T8CzFQNUKDG_HngmEKM0UF48w0)
+
+Battery Fixed Kernel: [Click Here](https://mega.co.nz/#!BlcFkThD!Wqp0rbBP1JNW9FDFbZfqh0aEbGxtD5HGW0QE5coEiBg)
+
+Kernel With Philz Touch Recovery CWM 6: [Click Here](https://mega.co.nz/#!5sNSiChJ!R0xpEANtkABrQiyRQNzD2q2CmxF3wO56CHW3oWRycGE)
+
+
