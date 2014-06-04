@@ -37,6 +37,6 @@ This rom is ICS based and consists of two zips. One is the base rom which includ
 
 TurboICS Single Sim: [Click Here](http://d-h.st/GiU)
 
-TurboICS Dual Sim: [CLick Here](http://d-h.st/QoK)
+TurboICS Dual Sim: [Click Here](http://d-h.st/QoK)
 
 Aroma Installer: [Click Here](http://d-h.st/gXL)
