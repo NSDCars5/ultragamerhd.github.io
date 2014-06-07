@@ -67,7 +67,7 @@ This rom is based on Android 4.4.2 KitKat, the rom is built using CyanogenMod 11
 - Video Recording
 - FM Radio
 
-This rom is bound to have bugs and issues that needs resolving. This rom is not in it's stable state as of yet but in its alpha stage and is released as a preview of what is expected and what is going to come when this rom evetually becomes a stable release.
+This rom is bound to have bugs and issues that needs resolving. This rom is not in it's stable state as of yet but in its alpha stage and is released as a preview of what is expected and what is going to come when this rom eventually becomes a stable release.
 
 **NOTE: INSTALL AT YOUR OWN RISK I AM NOT RESPONSIBLE FOR ANY KIND OF DAMAGE THAT OCCURS TO YOUR PHONE**
 
