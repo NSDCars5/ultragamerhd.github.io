@@ -27,7 +27,7 @@ Zues Kernel 3.1.1 (TWRP): [Click Here](https://mega.co.nz/#!R1VEmJSB!JgOBW_deYPd
 
 **--Posiedon Kernel-- Stock Ice-Scream-Sandwich Kernel For the Xperia E**
 
-This is an overclocked Icesream Sandwich 4.0.4 (11.1.A.0.64) Kernel For the Xperia E Single and Dual Sim.
+This is an overclocked Icesream Sandwich 4.0.4 (11.1.A.0.68) Kernel For the Xperia E Single and Dual Sim.
 
 **What does this Kernel Include?**
 
@@ -49,7 +49,7 @@ This is a overclocked Jelly Bean 4.1.2 (CM10) Kernel For the Xperia E Single and
 - SWAP Support
 - USB Fast Charging
 - Frandom Support
-- zRAM - (To enable this Go into Settings --> Performance ---> Memory Management --> zRAM --> Set Your % of Compression)
+- zRAM (To enable this Go into Settings --> Performance ---> Memory Management --> zRAM --> Set Your % of Compression)
 
 - **Download Links:**
 
