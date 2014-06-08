@@ -75,6 +75,8 @@ This rom is bound to have bugs and issues that needs resolving. This rom is not 
 
 Alpha 4: [Click Here](https://mega.co.nz/#!d4l20Zba!xwRZ3twq58M5w8Jx6T8CzFQNUKDG_HngmEKM0UF48w0)
 
+Alpha 5/4.4.3: [Click Here](https://mega.co.nz/#!1tNU1QqY!Vpe9USKkFTnIwex6_Gn-SYAAXbM2JnCUHbDDQ8lowwA)
+
 Battery Fixed Kernel: [Click Here](https://mega.co.nz/#!BlcFkThD!Wqp0rbBP1JNW9FDFbZfqh0aEbGxtD5HGW0QE5coEiBg)
 
 Kernel With Philz Touch Recovery CWM 6: [Click Here](https://mega.co.nz/#!5sNSiChJ!R0xpEANtkABrQiyRQNzD2q2CmxF3wO56CHW3oWRycGE)
