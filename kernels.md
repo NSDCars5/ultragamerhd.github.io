@@ -22,7 +22,7 @@ This is an overclocked Jelly Bean 4.1.1 (11.3.A.2.23) Kernel for the Xperia E Si
 
 Enough of me Talking :).... Time For the Download Links:
 
-Zues Kernel 3.1 (CWM): [Click Here](https://mega.co.nz/#!0sk0yZSA!NjUwS_6HICKEza4OCq1LUcQFM0UbPeTkLhZ1XpkakvI)
+Zues Kernel 3.1.1 (CWM): [Click Here](https://mega.co.nz/#!IwsCkLrQ!ELzB30vkKvmPDEwJmuGl4ETKxlFwa_SV7EAvAKitqnM)
 
 Zues Kernel 3.1.2 (TWRP): [Click Here](https://mega.co.nz/#!xl0DxSQR!A52MuVi-DH0JHAW9ivFnjlAFX2lEVwXrmgUfdmXP-pk)
 
