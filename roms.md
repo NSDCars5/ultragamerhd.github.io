@@ -50,6 +50,7 @@ This rom is based on Android 4.4.2 KitKat, the rom is built using CyanogenMod 11
 - Display
 - Audio
 - WiFi
+- Bluetooth (A6.1)
 - RIL
 - Video Playback (SW/HW)
 - Mobile Data (3G)
@@ -63,7 +64,6 @@ This rom is based on Android 4.4.2 KitKat, the rom is built using CyanogenMod 11
 **Not Working:**
 
 - Camera
-- Bluetooth
 - Video Recording
 - FM Radio
 
@@ -78,6 +78,8 @@ Alpha 4: [Click Here](https://mega.co.nz/#!d4l20Zba!xwRZ3twq58M5w8Jx6T8CzFQNUKDG
 Alpha 5/4.4.3: [Click Here](https://mega.co.nz/#!1tNU1QqY!Vpe9USKkFTnIwex6_Gn-SYAAXbM2JnCUHbDDQ8lowwA)
 
 Alpha 6/4.4.4 [Click Here](https://mega.co.nz/#!YwUiiRAa!l9ot5rE9yirGxKoR8eK85FDsO_fknd6bkyxaM43Lyes)
+
+Alpha 6.1 [Click Here](https://mega.co.nz/#!lw032IzS!v22Q5LY0bmKmBYNlj4UZK4OJHEQlqCq9BJWevjYwKZk)
 
 Battery Fixed Kernel: [Click Here](https://mega.co.nz/#!BlcFkThD!Wqp0rbBP1JNW9FDFbZfqh0aEbGxtD5HGW0QE5coEiBg)
 
